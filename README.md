@@ -21,7 +21,7 @@ This Python script helps manage a shopping cart by calculating the total price o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Shopping-Cart-Calculator.git
+   git clone https://github.com/PashaNasirahmadi/Shopping-Cart-Calculator.git
 Navigate to the project directory:
 
 bash
