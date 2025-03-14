@@ -27,12 +27,15 @@ Navigate to the project directory:
 ```bash
 cd Shopping-Cart-Calculator
 Install the required dependencies:
+```
 
 ```bash
 pip install numpy
 Usage
 Run the script using Python:
+```
 
 ```bash
 python shopping_cart.py
 Follow the on-screen prompts to input items, quantities, and prices. The script will calculate the total cost, apply discounts if applicable, and display a summary.
+```
