@@ -24,18 +24,15 @@ This Python script helps manage a shopping cart by calculating the total price o
    git clone https://github.com/PashaNasirahmadi/Shopping-Cart-Calculator.git
 Navigate to the project directory:
 
-bash
-Copy
+```bash
 cd Shopping-Cart-Calculator
 Install the required dependencies:
 
-bash
-Copy
+```bash
 pip install numpy
 Usage
 Run the script using Python:
 
-bash
-Copy
+```bash
 python shopping_cart.py
 Follow the on-screen prompts to input items, quantities, and prices. The script will calculate the total cost, apply discounts if applicable, and display a summary.
